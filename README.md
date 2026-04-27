@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on backend services using Java and Spring Boot, focusing on building scalable and reliable systems.<br><br>👯 I’m looking to collaborate on backend-heavy projects, distributed systems, and high-load applications.<br><br>🤝 I’m looking for help with deepening my knowledge of system design, performance optimization, and cloud-native architectures.<br><br>🌱 I’m currently learning advanced distributed systems concepts, Kubernetes, and improving my expertise in event-driven architectures (Kafka).<br><br>💬 Ask me about Java, Spring Boot, REST APIs, microservices, and backend architecture.<br><br>⚡ Fun fact: Together with a friend, I built a dog-sitting service that handles real-time features and ~300 RPS with stable latency.<br>
+# 💫 Hi! My name is Fada Verdiev
+I am a java backend developer. I build server-side applications using Spring Boot, and work with Kafka and PostgreSQL. I’m interested in designing scalable and fault-tolerant systems.
 
 
 ## 🌐 Socials:
